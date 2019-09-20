@@ -8,13 +8,13 @@ You must have atleast 15 mins of free time, stable Internet, to complete all ste
 
 ![guide](extras/010.PNG)
 
-### For Advanced users
+## Step 2 : For Advanced users
 
 #### Note : For next Step to work you may need to install git on your machine
 For Linux users [follow these steps](https://www.atlassian.com/git/tutorials/install-git#linux)  
 For Windows users [follow these steps](https://www.atlassian.com/git/tutorials/install-git#windows)
 
-1. Enter Terminal 
+### 1. Enter Terminal 
 
 #### For Linux users
 1. Press Ctrl + Alt + T on keyboard
@@ -23,11 +23,11 @@ For Windows users [follow these steps](https://www.atlassian.com/git/tutorials/i
 1. Press Windos + R on keyboard
 2. Type cmd and press Enter
 
-2. Clone this repository
+### 2. Clone this repository
 ```
 git clone https://gitlab.com/shunyaos/git-training.git
 ```
-3. Run a script using command given below in the terminal
+### 3. Run a script using command given below in the terminal
 
 #### For Linux users
 ```shell
@@ -35,17 +35,15 @@ cd git-training
 ./check_linux.sh
 ```
 #### For Windows users
-1. Press Windos + R on keyboard
-2. Type cmd and press Enter
 ```shell
 cd git-training
 check_windows.bat
 ```
-5. Commit all your changes (include all  files in your directory)
+### 4. Commit all your changes (include all  files in your directory)
 ```
 git commit -m "Ran script"
 ```
-6. Push the changes to the remote repository
+### 5. Push the changes to the remote repository
 ```
 git push
 ```
