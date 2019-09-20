@@ -8,11 +8,13 @@ You must have atleast 15 mins of free time, stable Internet, to complete all ste
 
 ![guide](extras/010.PNG)
 
-## Step 2 : For Advanced users
 
+## Instruction to install git
 #### Note : For next Step to work you may need to install git on your machine
 For Linux users [follow these steps](https://www.atlassian.com/git/tutorials/install-git#linux)  
 For Windows users [follow these steps](https://www.atlassian.com/git/tutorials/install-git#windows)
+
+## Step 2 : For Advanced users
 
 ### 1. Enter Terminal 
 
