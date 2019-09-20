@@ -4,8 +4,6 @@ How to read this document ?
 
 You must have atleast 15 mins of free time, stable Internet, to complete all steps given here.
 
-The pre-requisites
-
 ## Step 1 : Learn how to use git 
 
 Please follow this [guide](git_basics.md) to git
