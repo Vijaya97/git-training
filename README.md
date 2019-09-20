@@ -13,7 +13,7 @@ Please follow this [guide](git_basics.md) to git
 1. Fork this repository - https://gitlab.com/shunyaos/git-training.git
 
 #### Note : For next Step to work you may need to install git on your machine
-For Linux users [follow these steps](https://www.atlassian.com/git/tutorials/install-git#linux)
+For Linux users [follow these steps](https://www.atlassian.com/git/tutorials/install-git#linux)  
 For Windows users [follow these steps](https://www.atlassian.com/git/tutorials/install-git#windows)
 
 2. Clone this repository - https://gitlab.com/shunyaos/git-training.git
