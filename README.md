@@ -14,6 +14,15 @@ You must have atleast 15 mins of free time, stable Internet, to complete all ste
 For Linux users [follow these steps](https://www.atlassian.com/git/tutorials/install-git#linux)  
 For Windows users [follow these steps](https://www.atlassian.com/git/tutorials/install-git#windows)
 
+1. Enter Terminal 
+
+#### For Linux users
+1. Press Ctrl + Alt + T on keyboard
+
+#### For Windows users
+1. Press Windos + R on keyboard
+2. Type cmd and press Enter
+
 2. Clone this repository
 ```
 git clone https://gitlab.com/shunyaos/git-training.git
