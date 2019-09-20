@@ -4,13 +4,11 @@ How to read this document ?
 
 You must have atleast 15 mins of free time, stable Internet, to complete all steps given here.
 
-## Step 1 : Learn how to use git 
+## Step 1 : Fork the Repository 
 
-Please follow this [guide](git_basics.md) to git
+![guide](extras/010.PNG)
 
 ### Practical - Your real test here
-
-1. Fork this repository - https://gitlab.com/shunyaos/git-training.git
 
 #### Note : For next Step to work you may need to install git on your machine
 For Linux users [follow these steps](https://www.atlassian.com/git/tutorials/install-git#linux)  
